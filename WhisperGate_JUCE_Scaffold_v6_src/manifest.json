@@ -1,0 +1,8 @@
+{
+  "name": "WhisperGate Lite",
+  "version": "0.5.0",
+  "type": "juce_scaffold_handoff",
+  "targets": ["Standalone", "AU", "VST3"],
+  "status": "compile_oriented_scaffold_not_host_validated",
+  "notes": ["Requires local JUCE checkout", "Needs compile-fix pass", "Needs final DSP and host validation"]
+}

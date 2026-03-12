@@ -1,0 +1,7 @@
+WhisperGate Lite is intended as a free-to-use / free-to-fork / steal-friendly project direction.
+
+Suggested human-readable repo note:
+'Free to use. Free to fork. Free to steal. If it helps you, buy me a coffee.'
+
+This file is not legal advice and is not a substitute for a real OSS license choice.
+Pick a final license before public release.
