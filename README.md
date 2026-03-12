@@ -1,4 +1,4 @@
-# WhisperGate Lite
+# WhisperGate
 ### Ritual Whisper Instrument
 
 WhisperGate Lite is an experimental audio plugin that transforms sound into **procedural whispers, ghost choirs, and ritual atmospheres** through an interactive geometry interface.
